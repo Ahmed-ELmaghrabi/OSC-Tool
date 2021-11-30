@@ -1,0 +1,701 @@
+spawn ssh SYSTEM@10.199.139.4
+SYSTEM@10.199.139.4's password: 
+
+mcBSC     mcTEST                    2021-11-23  15:51:24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       WELCOME TO THE DIALOGUE
+
+
+
+
+
+MAIN LEVEL COMMAND <___>
+<  ZEEI:;
+
+
+LOADING PROGRAM VERSION 42.7-0
+
+
+
+
+mcBSC     mcTEST                    2021-11-23  15:51:24
+RADIO NETWORK CONFIGURATION IN BSC:
+                                                         E P BB
+                                      F                  T R CC D-CHANNEL  BUSY
+                      AD OP           R  ET- BCCH/CBCH/  R E XS O&M LINK  HR  FR
+ LAC   CI         HOP ST STATE  FREQ  T  PCM ERACH/      X F UU NAME  ST DHR
+                                             ECBCCH                          /GP
+===================== == ====== ==== == ==== =========== = = == ===== == === ===
+
+BCF-0001  FLEXI MR10   U WO                                  X3  P0001 WO
+ 38141 02994 BTS-0001  U BL-BTS                                            0   0
+ GORLB042994S1P  -/-                                                       0
+                                                                               0
+              TRX-001  U BL-TRX   37  0    -                 X2 
+              TRX-002  U BL-BTS   35  0    - MBCCH+CBCH    P X2 
+ 38141 20741 BTS-0002  L BL-USR                                            0   0
+ GTEST20741S     -/-                                                       0
+                                                                               0
+              TRX-005  U BL-USR   56  0    - MBCCH+CBCH    P X2 
+              TRX-006  U BL-USR    8  0    -                 X2 
+ 38141 17279 BTS-0005  L BL-USR                                            0   0
+ GORLB0417279S5P BB/-                                                      0
+                                                                               0
+              TRX-003  U BL-USR  696  0    - MBCCH+CBCH    P X2 
+              TRX-004  U BL-USR  692  0    -                 X2 
+
+BCF-0011  FLEXI MULTI  U WO                                  X3  P0011 WO
+ 50141 02996 BTS-0011  U WO                                                0   0
+ GORLB052996S1S  BB/-                                                      0
+                                                                               1
+              TRX-001  U WO       10  0    - MBCCH+CBCH    P X2 
+              TRX-002  U WO        3  0    -                 X2 
+ 50141 20723 BTS-0012  L BL-USR                                            0   0
+ TST20723S       BB/-                                                      0
+                                                                               0
+              TRX-006  L BL-USR   58  0    - MBCCH+CBCH    P X2 
+              TRX-007  L BL-USR   28  0    -                 X2 
+ 50141 20724 BTS-0016  L BL-USR                                            0   0
+ TST20724S       -/-                                                       0
+                                                                               0
+              TRX-008  U BL-USR  698  0    - MBCCH+CBCH      X2 
+              TRX-009  U BL-USR  694  0    -                 X2 
+
+BCF-0021  FLEXI MULTI  L BL-USR                              X3  P0021 BL
+ 31141 29104 BTS-0021  U BL-USR                                            0   0
+ S0007DE9104S1OO BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   45  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR   33  0    -                 X3 
+              TRX-005  U BL-USR   61  0    -                 X3 
+              TRX-006  U BL-USR   41  0    -                 X3 
+ 31141 29105 BTS-0022  U BL-USR                                            0   0
+ S0007DE9105S2OO BB/-                                                      0
+                                                                               0
+              TRX-007  U BL-USR   57  0    - MBCCH+CBCH    P X3 
+              TRX-008  U BL-USR   62  0    -                 X3 
+              TRX-009  U BL-USR   39  0    -                 X3 
+              TRX-012  U BL-USR   28  0    -                 X2 
+              TRX-013  U BL-USR   30  0    -                 X2 
+              TRX-014  U BL-USR   60  0    -                 X2 
+ 31141 29104 BTS-0025  U BL-USR                                            0   0
+ S0007DE9104S5OO BB/-                                                      0
+                                                                               0
+              TRX-015  U BL-USR  697  0    -                 X2 
+ 31141 29105 BTS-0026  U BL-USR                                            0   0
+ S0007DE9105S6OO BB/-                                                      0
+                                                                               0
+              TRX-021  U BL-USR  765  0    -                 X3 
+
+BCF-0031  FLEXI MULTI  L BL-USR                              X3  P0031 WO
+ 31141 29106 BTS-0023  U BL-USR                                            0   0
+ S0007DE9106S3OO BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   52  0    - MBCCH+CBCH    P X3 
+              TRX-003  U BL-USR   24  0    -                 X3 
+              TRX-004  U BL-USR   35  0    -                 X3 
+ 31141 29106 BTS-0027  U BL-USR                                            0   0
+ S0007DE9106S7OO BB/-                                                      0
+                                                                               0
+              TRX-007  U BL-USR  763  0    -                 X3 
+
+BCF-0041  FLEXI MULTI  L BL-USR                              X3  P0041 BL
+
+BCF-0051  FLEXI MULTI  L BL-USR                              X3  P0051 BL
+ 35247 11461 BTS-0051  L BL-USR                                            0   0
+ S0027SI10350S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   51  0    - MBCCH+CBCH    P X3 
+              TRX-002  L BL-USR   31  0    -                 X3 
+              TRX-003  L BL-USR   27  0    -                 X3 
+ 35247 11462 BTS-0052  L BL-USR                                            0   0
+ S0027SI10351S2S BB/-                                                      0
+                                                                               0
+              TRX-004  L BL-USR   38  0    - MBCCH+CBCH    P X3 
+              TRX-005  L BL-USR   42  0    -                 X3 
+              TRX-006  L BL-USR   45  0    -                 X3 
+ 35247 11463 BTS-0053  L BL-USR                                            0   0
+ S0027SI10352S3S BB/-                                                      0
+                                                                               0
+              TRX-007  L BL-USR   59  0    -                 X3 
+              TRX-008  L BL-USR   36  0    - MBCCH+CBCH    P X3 
+              TRX-009  L BL-USR   34  0    -                 X3 
+              TRX-010  L BL-USR   49  0    -                 X3 
+              TRX-011  L BL-USR   29  0    -                 X3 
+ 35247 51888 BTS-0056  L BL-USR                                            0   0
+ S0027SI50777S6S BB/-                                                      0
+                                                                               0
+              TRX-012  L BL-USR  762  0    - MBCCH+CBCH    P X3 
+              TRX-013  L BL-USR  758  0    -                 X3 
+              TRX-014  L BL-USR  754  0    -                 X3 
+ 35247 51889 BTS-0057  L BL-USR                                            0   0
+ S0027SI50778S7S BB/-                                                      0
+                                                                               0
+              TRX-015  L BL-USR  760  0    - MBCCH+CBCH    P X3 
+              TRX-016  L BL-USR  764  0    -                 X3 
+              TRX-017  L BL-USR  755  0    -                 X3 
+
+BCF-0061  FLEXI MULTI  L BL-USR                              X3  P0061 BL
+ 35247 55556 BTS-0061  L BL-USR                                            0   0
+ G0085SI54445S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   43  0    - MBCCH+CBCH    P X3 
+              TRX-002  L BL-USR   50  0    -                 X3 
+              TRX-003  L BL-USR   48  0    -                 X3 
+ 35247 55557 BTS-0062  L BL-USR                                            0   0
+ G0085SI54446S2S BB/-                                                      0
+                                                                               0
+              TRX-004  L BL-USR   38  0    - MBCCH+CBCH    P X3 
+              TRX-005  L BL-USR   35  0    -                 X3 
+              TRX-006  L BL-USR   30  0    -                 X3 
+
+BCF-0071  FLEXI MULTI  L BL-USR                              X3  P0071 BL
+ 35247 15301 BTS-0071  L BL-USR                                            0   0
+ S0108SI14190S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   55  0    - MBCCH+CBCH    P X3 
+              TRX-002  L BL-USR   47  0    -                 X3 
+ 35247 15302 BTS-0072  L BL-USR                                            0   0
+ S0108SI14191S2S BB/-                                                      0
+                                                                               0
+              TRX-003  L BL-USR   29  0    - MBCCH+CBCH    P X3 
+              TRX-004  L BL-USR   43  0    -                 X3 
+ 35247 50879 BTS-0073  L BL-USR                                            0   0
+ S0108SI49768S3S BB/-                                                      0
+                                                                               0
+              TRX-005  L BL-USR   27  0    - MBCCH+CBCH    P X3 
+              TRX-006  L BL-USR   49  0    -                 X3 
+ 35247 50881 BTS-0074  L BL-USR                                            0   0
+ S0108SI49770S4S BB/-                                                      0
+                                                                               0
+              TRX-007  L BL-USR   40  0    - MBCCH+CBCH    P X3 
+              TRX-008  L BL-USR   53  0    -                 X3 
+
+BCF-0081  FLEXI MULTI  L BL-USR                              X3  P0081 BL
+ 35247 64780 BTS-0081  L BL-USR                                            0   0
+ S0303SI63669S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   39  0    - MBCCH+CBCH    P X3 
+              TRX-002  L BL-USR    1  0    -                 X3 
+              TRX-003  L BL-USR   61  0    -                 X3 
+              TRX-004  L BL-USR   55  0    -                 X3 
+ 35247 61301 BTS-0082  L BL-USR                                            0   0
+ S0303SI60190S2S BB/-                                                      0
+                                                                               0
+              TRX-005  L BL-USR   32  0    - MBCCH+CBCH    P X3 
+              TRX-006  L BL-USR   45  0    -                 X3 
+ 35247 64781 BTS-0083  L BL-USR                                            0   0
+ S0303SI63670S3S BB/-                                                      0
+                                                                               0
+              TRX-007  L BL-USR   51  0    - MBCCH+CBCH    P X3 
+              TRX-008  L BL-USR   56  0    -                 X3 
+ 35247 64782 BTS-0084  L BL-USR                                            0   0
+ S0303SI63671S4S BB/-                                                      0
+                                                                               0
+              TRX-009  L BL-USR   60  0    - MBCCH+CBCH    P X3 
+              TRX-010  L BL-USR   43  0    -                 X3 
+              TRX-011  L BL-USR   30  0    -                 X3 
+              TRX-012  L BL-USR   28  0    -                 X3 
+              TRX-013  L BL-USR   35  0    -                 X3 
+ 35247 63159 BTS-0085  L BL-USR                                            0   0
+ S0303SI62048S5S BB/-                                                      0
+                                                                               0
+              TRX-014  L BL-USR  693  0    - MBCCH+CBCH    P X3 
+              TRX-015  L BL-USR  691  0    -                 X3 
+ 35247 63160 BTS-0086  L BL-USR                                            0   0
+ S0303SI62049S6S BB/-                                                      0
+                                                                               0
+              TRX-016  L BL-USR  764  0    - MBCCH+CBCH    P X3 
+              TRX-017  L BL-USR  701  0    -                 X3 
+ 35247 63167 BTS-0087  L BL-USR                                            0   0
+ S0303SI62056S7S BB/-                                                      0
+                                                                               0
+              TRX-018  L BL-USR  698  0    - MBCCH+CBCH    P X3 
+              TRX-019  L BL-USR  696  0    -                 X3 
+ 35247 46796 BTS-0088  L BL-USR                                            0   0
+ S0303SI45685S8S BB/-                                                      0
+                                                                               0
+              TRX-020  L BL-USR  762  0    - MBCCH+CBCH    P X3 
+              TRX-021  L BL-USR  757  0    -                 X3 
+              TRX-022  L BL-USR  755  0    -                 X3 
+
+BCF-0091  FLEXI MULTI  L BL-USR                              X3  P0091 BL
+ 35247 59812 BTS-0091  L BL-USR                                            0   0
+ S0328SI58701S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   61  0    - MBCCH+CBCH    P X3 
+              TRX-002  L BL-USR   46  0    -                 X3 
+              TRX-003  L BL-USR   43  0    -                 X3 
+              TRX-004  L BL-USR   28  0    -                 X3 
+ 35247 08797 BTS-0092  L BL-USR                                            0   0
+ S0328SI7686S2S  BB/-                                                      0
+                                                                               0
+              TRX-005  L BL-USR   30  0    -                 X3 
+              TRX-006  L BL-USR   49  0    - MBCCH+CBCH    P X3 
+              TRX-007  L BL-USR   36  0    -                 X3 
+ 35247 63274 BTS-0093  L BL-USR                                            0   0
+ S0328SI62163S3S BB/-                                                      0
+                                                                               0
+              TRX-008  L BL-USR   40  0    - MBCCH+CBCH    P X3 
+              TRX-009  L BL-USR   58  0    -                 X3 
+ 35247 59813 BTS-0094  L BL-USR                                            0   0
+ S0328SI58702S4S BB/-                                                      0
+                                                                               0
+              TRX-010  L BL-USR   26  0    - MBCCH+CBCH    P X3 
+              TRX-011  L BL-USR    1  0    -                 X3 
+              TRX-012  L BL-USR   53  0    -                 X3 
+              TRX-013  L BL-USR   47  0    -                 X3 
+ 35247 63219 BTS-0095  L BL-USR                                            0   0
+ S0328SI62108S5S BB/-                                                      0
+                                                                               0
+              TRX-014  L BL-USR  757  0    - MBCCH+CBCH    P X3 
+              TRX-015  L BL-USR  700  0    -                 X3 
+              TRX-016  L BL-USR  755  0    -                 X3 
+ 35247 08798 BTS-0096  L BL-USR                                            0   0
+ S0328SI7687S6S  BB/-                                                      0
+                                                                               0
+              TRX-017  L BL-USR  693  0    - MBCCH+CBCH    P X3 
+              TRX-018  L BL-USR  701  0    -                 X3 
+ 35247 63220 BTS-0097  L BL-USR                                            0   0
+ S0328SI62109S7S BB/-                                                      0
+                                                                               0
+              TRX-019  L BL-USR  691  0    - MBCCH+CBCH    P X3 
+              TRX-020  L BL-USR  699  0    -                 X3 
+ 35247 63227 BTS-0098  L BL-USR                                            0   0
+ S0328SI62116S8S BB/-                                                      0
+                                                                               0
+              TRX-021  L BL-USR  695  0    - MBCCH+CBCH    P X3 
+              TRX-022  L BL-USR  697  0    -                 X3 
+              TRX-023  L BL-USR  702  0    -                 X3 
+
+BCF-0101  FLEXI MULTI  L BL-USR                              X3  P0101 BL
+ 35247 57275 BTS-0101  U BL-USR                                            0   0
+ S0332SI56164S1S BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   25  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR    1  0    -                 X3 
+ 35247 57276 BTS-0102  U BL-USR                                            0   0
+ S0332SI56165S2S BB/-                                                      0
+                                                                               0
+              TRX-003  U BL-USR   57  0    - MBCCH+CBCH    P X3 
+              TRX-004  U BL-USR   54  0    -                 X3 
+              TRX-005  U BL-USR   49  0    -                 X3 
+ 35247 57277 BTS-0103  U BL-USR                                            0   0
+ S0332SI56166S3S BB/-                                                      0
+                                                                               0
+              TRX-006  U BL-USR   43  0    - MBCCH+CBCH    P X3 
+              TRX-007  U BL-USR   33  0    -                 X3 
+              TRX-008  U BL-USR   38  0    -                 X3 
+ 35247 63211 BTS-0107  U BL-USR                                            0   0
+ S0332SI62100S7S BB/-                                                      0
+                                                                               0
+              TRX-009  U BL-USR  754  0    - MBCCH+CBCH    P X3 
+              TRX-010  U BL-USR  762  0    -                 X3 
+
+BCF-0111  FLEXI MULTI  L BL-USR                              X2  P0111 BL
+ 35247 64855 BTS-0112  L BL-USR                                            0   0
+ S0333SI63744S2S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   58  0    - MBCCH+CBCH    P X2 
+              TRX-002  L BL-USR   49  0    -                 X2 
+ 35247 64856 BTS-0113  L BL-USR                                            0   0
+ S0333SI63745S3S BB/-                                                      0
+                                                                               0
+              TRX-003  L BL-USR   42  0    - MBCCH+CBCH    P X2 
+              TRX-004  L BL-USR   60  0    -                 X2 
+              TRX-005  L BL-USR    1  0    -                 X2 
+ 35247 46876 BTS-0115  L BL-USR                                            0   0
+ S0333SI45765S5S BB/-                                                      0
+                                                                               0
+              TRX-006  L BL-USR  694  0    - MBCCH+CBCH    P X2 
+              TRX-007  L BL-USR  702  0    -                 X2 
+ 35247 46877 BTS-0116  L BL-USR                                            0   0
+ S0333SI45766S6S BB/-                                                      0
+                                                                               0
+              TRX-008  L BL-USR  691  0    - MBCCH+CBCH    P X2 
+              TRX-009  L BL-USR  696  0    -                 X2 
+ 35247 46878 BTS-0117  L BL-USR                                            0   0
+ S0333SI45767S7S BB/-                                                      0
+                                                                               0
+              TRX-010  L BL-USR  763  0    - MBCCH+CBCH    P X2 
+              TRX-011  L BL-USR  761  0    -                 X2 
+
+BCF-0121  FLEXI MULTI  L BL-USR                              X2  P0121 BL
+ 35247 15511 BTS-0121  L BL-USR                                            0   0
+ S0334SI14400S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   39  0    - MBCCH+CBCH    P X2 
+              TRX-002  L BL-USR   37  0    -                 X2 
+              TRX-003  L BL-USR   56  0    -                 X2 
+ 35247 15512 BTS-0122  L BL-USR                                            0   0
+ S0334SI14401S2S BB/-                                                      0
+                                                                               0
+              TRX-004  L BL-USR   30  0    - MBCCH+CBCH    P X2 
+              TRX-005  L BL-USR    1  0    -                 X2 
+ 35247 15513 BTS-0123  L BL-USR                                            0   0
+ S0334SI14402S3S BB/-                                                      0
+                                                                               0
+              TRX-006  L BL-USR   34  0    - MBCCH+CBCH    P X2 
+              TRX-007  L BL-USR   57  0    -                 X2 
+              TRX-008  L BL-USR   59  0    -                 X2 
+ 35247 15514 BTS-0124  L BL-USR                                            0   0
+ S0334SI14403S4S BB/-                                                      0
+                                                                               0
+              TRX-009  L BL-USR   44  0    - MBCCH+CBCH    P X2 
+              TRX-010  L BL-USR   41  0    -                 X2 
+              TRX-011  L BL-USR   33  0    -                 X2 
+ 35247 46884 BTS-0125  L BL-USR                                            0   0
+ S0334SI45773S5S BB/-                                                      0
+                                                                               0
+              TRX-012  L BL-USR  698  0    - MBCCH+CBCH    P X2 
+              TRX-013  L BL-USR  702  0    -                 X2 
+ 35247 46885 BTS-0126  L BL-USR                                            0   0
+ S0334SI45774S6S BB/-                                                      0
+                                                                               0
+              TRX-014  L BL-USR  696  0    - MBCCH+CBCH    P X2 
+              TRX-015  L BL-USR  694  0    -                 X2 
+ 35247 46886 BTS-0127  L BL-USR                                            0   0
+ S0334SI45775S7S BB/-                                                      0
+                                                                               0
+              TRX-016  L BL-USR  700  0    - MBCCH+CBCH    P X2 
+              TRX-017  L BL-USR  691  0    -                 X2 
+ 35247 46887 BTS-0128  L BL-USR                                            0   0
+ S0334SI45776S8S BB/-                                                      0
+                                                                               0
+              TRX-018  L BL-USR  758  0    - MBCCH+CBCH    P X2 
+              TRX-019  L BL-USR  765  0    -                 X2 
+
+BCF-0131  FLEXI MULTI  L BL-USR                              X2  P0131 BL
+ 35247 15528 BTS-0132  L BL-USR                                            0   0
+ S0517SI14417S2S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   41  0    -                 X2 
+              TRX-002  L BL-USR   45  0    - MBCCH+CBCH    P X2 
+              TRX-003  L BL-USR   61  0    -                 X2 
+ 35247 15529 BTS-0133  L BL-USR                                            0   0
+ S0517SI14418S3S BB/-                                                      0
+                                                                               0
+              TRX-004  L BL-USR   29  0    - MBCCH+CBCH    P X2 
+              TRX-005  L BL-USR   27  0    -                 X2 
+ 35247 63229 BTS-0136  L BL-USR                                            0   0
+ S0517SI62118S6S BB/-                                                      0
+                                                                               0
+              TRX-006  L BL-USR  765  0    - MBCCH+CBCH    P X2 
+              TRX-007  L BL-USR  759  0    -                 X2 
+ 35247 63233 BTS-0137  L BL-USR                                            0   0
+ S0517SI62122S7S BB/-                                                      0
+                                                                               0
+              TRX-008  L BL-USR  698  0    - MBCCH+CBCH    P X2 
+              TRX-009  L BL-USR  700  0    -                 X2 
+
+BCF-0141  FLEXI MULTI  L BL-USR                              X2  P0141 BL
+ 35247 33291 BTS-0141  L BL-USR                                            0   0
+ S0530SI32180S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   37  0    - MBCCH+CBCH    P X2 
+              TRX-002  L BL-USR   39  0    -                 X2 
+ 35247 33292 BTS-0142  L BL-USR                                            0   0
+ S0530SI32181S2S BB/-                                                      0
+                                                                               0
+              TRX-003  L BL-USR   41  0    - MBCCH+CBCH    P X2 
+              TRX-004  L BL-USR   47  0    -                 X2 
+ 35247 33293 BTS-0143  L BL-USR                                            0   0
+ S0530SI32182S3S BB/-                                                      0
+                                                                               0
+              TRX-005  L BL-USR   35  0    - MBCCH+CBCH    P X2 
+              TRX-006  L BL-USR   33  0    -                 X2 
+ 35247 33294 BTS-0144  L BL-USR                                            0   0
+ S0530SI32183S4S BB/-                                                      0
+                                                                               0
+              TRX-007  L BL-USR   51  0    - MBCCH+CBCH    P X2 
+              TRX-008  L BL-USR   56  0    -                 X2 
+              TRX-009  L BL-USR   31  0    -                 X2 
+ 35247 46891 BTS-0148  L BL-USR                                            0   0
+ S0530SI45780S8S BB/-                                                      0
+                                                                               0
+              TRX-010  L BL-USR  691  0    - MBCCH+CBCH    P X2 
+              TRX-011  L BL-USR  765  0    -                 X2 
+ 35247 33295 BTS-0149  L BL-USR                                            0   0
+ S0530SI32184S5S BB/-                                                      0
+                                                                               0
+              TRX-012  L BL-USR   53  0    - MBCCH+CBCH    P X2 
+              TRX-013  L BL-USR   58  0    -                 X2 
+
+BCF-0151  FLEXI MULTI  L BL-USR                              X2  P0151 BL
+ 35247 64056 BTS-0151  L BL-USR                                            0   0
+ G1013SI62945S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   42  0    - MBCCH+CBCH    P X2 
+              TRX-002  L BL-USR   58  0    -                 X2 
+
+BCF-0161  FLEXI MULTI  L BL-USR                              X2  P0161 BL
+ 35247 33174 BTS-0161  L BL-USR                                            0   0
+ G1027SI32063S1S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   49  0    - MBCCH+CBCH    P X2 
+              TRX-002  L BL-USR   38  0    -                 X2 
+
+BCF-0201  FLEXI MULTI  L BL-USR                              X2  P0201 BL
+
+BCF-0211  FLEXI MULTI  L BL-USR                              X2  P0211 BL
+
+BCF-0221  FLEXI MULTI  L BL-USR                              X2  P0221 BL
+
+BCF-0231  FLEXI MULTI  L BL-USR                              X2  P0231 BL
+
+BCF-0241  FLEXI MULTI  L BL-USR                              X2  P0241 BL
+
+BCF-0251  FLEXI MULTI  L BL-USR                              X2  P0251 BL
+
+BCF-0281  FLEXI MULTI  L BL-USR                              X2  P0281 BL
+ 31141 33084 BTS-0281  U BL-USR                                            0   0
+ S0633DE13084S1O BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   61  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR   37  0    -                 X3 
+              TRX-003  U BL-USR   33  0    -                 X3 
+              TRX-004  U BL-USR   26  0    -                 X3 
+              TRX-005  U BL-USR   29  0    -                 X3 
+              TRX-006  U BL-USR   54  0    -                 X3 
+ 31141 33085 BTS-0282  U BL-USR                                            0   0
+ S0633DE13085S2O BB/-                                                      0
+                                                                               0
+              TRX-007  U BL-USR   59  0    - MBCCH+CBCH    P X2 
+              TRX-008  U BL-USR   51  0    -                 X2 
+              TRX-009  U BL-USR   41  0    -                 X2 
+              TRX-012  U BL-USR   56  0    -                 X2 
+ 31141 33084 BTS-0285  U BL-USR                                            0   0
+ S0633DE13084S5O BB/-                                                      0
+                                                                               0
+              TRX-013  U BL-USR  759  0    -                 X2 
+              TRX-015  U BL-USR  765  0    -                 X2 
+ 31141 33085 BTS-0286  U BL-USR                                            0   0
+ S0633DE13085S6O BB/-                                                      0
+                                                                               0
+              TRX-016  U BL-USR  692  0    -                 X2 
+
+BCF-0291  FLEXI MULTI  L BL-USR                              X2  P0291 BL
+ 31141 33086 BTS-0283  U BL-USR                                            0   0
+ S0633DE13086S3O BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   49  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR   43  0    -                 X3 
+              TRX-003  U BL-USR   45  0    -                 X3 
+              TRX-004  U BL-USR   36  0    -                 X3 
+              TRX-005  U BL-USR   34  0    -                 X3 
+              TRX-006  U BL-USR   31  0    -                 X2 
+ 31141 33087 BTS-0284  U BL-USR                                            0   0
+ S0633DE13087S4O BB/-                                                      0
+                                                                               0
+              TRX-007  U BL-USR   57  0    - MBCCH+CBCH    P X2 
+              TRX-008  U BL-USR    1  0    -                 X2 
+              TRX-009  U BL-USR   40  0    -                 X2 
+              TRX-010  U BL-USR   47  0    -                 X2 
+              TRX-012  U BL-USR   42  0    -                 X2 
+ 31141 33086 BTS-0287  U BL-USR                                            0   0
+ S0633DE13086S7O BB/-                                                      0
+                                                                               0
+              TRX-014  U BL-USR  765  0    -                 X2 
+              TRX-015  U BL-USR  753  0    -                 X2 
+              TRX-016  U BL-USR  757  0    -                 X3 
+ 31141 33087 BTS-0288  U BL-USR                                            0   0
+ S0633DE13087S8O BB/-                                                      0
+                                                                               0
+              TRX-017  U BL-USR  755  0    -                 X3 
+              TRX-018  U BL-USR  763  0    -                 X3 
+
+BCF-0301  FLEXI MULTI  L BL-USR                              X2  P0301 BL
+
+BCF-0341  FLEXI MULTI  L BL-USR                              X3  P0341 BL
+
+BCF-0401  FLEXI MULTI  L BL-USR                              X3  P0401 BL
+
+BCF-0411  FLEXI MULTI  L BL-USR                              X3  P0411 BL
+
+BCF-0421  FLEXI MULTI  L BL-USR                              X3  P0421 BL
+
+BCF-0431  FLEXI MULTI  L BL-USR                              X3  P0431 BL
+
+BCF-0441  FLEXI MULTI  L BL-USR                              X3  P0441 BL
+
+BCF-0451  FLEXI MULTI  L BL-USR                              X3  P0451 BL
+
+BCF-0501  FLEXI MR10   L BL-USR                              X3  P0501 BL
+
+BCF-0511  FLEXI MR10   L BL-USR                              X3  P0511 BL
+
+BCF-0541  FLEXI MULTI  L BL-USR                              X3  P0541 BL
+
+BCF-0551  FLEXI MULTI  L BL-USR                              X3  P0551 BL
+
+BCF-0561  FLEXI MULTI  L BL-USR                              X3  P0561 BL
+
+BCF-0571  FLEXI MULTI  L BL-USR                              X2  P0571 BL
+
+BCF-0591  FLEXI MULTI  L BL-USR                              X2  P0591 BL
+
+BCF-0601  FLEXI MULTI  L BL-USR                              X2  P0601 BL
+
+BCF-0611  FLEXI MULTI  L BL-USR                              X2  P0611 BL
+
+BCF-0631  FLEXI MR10   L BL-USR SBTS-20346                   X2  P0631 BL
+
+BCF-0671  FLEXI MR10   L BL-USR SBTS-25501                   X2  P0671 BL
+
+BCF-0701  FLEXI MULTI  L BL-USR                              X2  P0701 BL
+
+BCF-0711  FLEXI MULTI  L BL-USR                              X2  P0711 BL
+
+BCF-0841  FLEXI MULTI  L BL-USR                              X2  P0841 BL
+
+BCF-0851  FLEXI MULTI  L BL-USR                              X2  P0851 BL
+
+BCF-0861  FLEXI MULTI  L BL-USR                              X3  P0861 BL
+ 31141 37248 BTS-0861  U BL-USR                                            0   0
+ S4331DE17248S1S BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   45  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR   25  0    -                 X3 
+              TRX-003  U BL-USR   36  0    -                 X3 
+              TRX-004  U BL-USR   44  0    -                 X3 
+ 31141 37249 BTS-0862  U BL-USR                                            0   0
+ S4331DE17249S2S BB/-                                                      0
+                                                                               0
+              TRX-006  U BL-USR   60  0    - MBCCH+CBCH    P X2 
+              TRX-007  U BL-USR   27  0    -                 X2 
+              TRX-009  U BL-USR   35  0    -                 X2 
+              TRX-010  U BL-USR   39  0    -                 X2 
+ 31141 37248 BTS-0865  U BL-USR                                            0   0
+ S4331DE17248S5S BB/-                                                      0
+                                                                               0
+              TRX-012  U BL-USR  691  0    -                 X3 
+ 31141 37249 BTS-0866  U BL-USR                                            0   0
+ S4331DE17249S6S BB/-                                                      0
+                                                                               0
+              TRX-016  U BL-USR  765  0    -                 X2 
+
+BCF-0871  FLEXI MULTI  L BL-USR                              X3  P0871 BL
+ 31141 37272 BTS-0863  U BL-USR                                            0   0
+ S4331DE17272S3S BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   56  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR   29  0    -                 X3 
+              TRX-003  U BL-USR   33  0    -                 X3 
+              TRX-004  U BL-USR   40  0    -                 X3 
+ 31141 37273 BTS-0864  U BL-USR                                            0   0
+ S4331DE17273S4S BB/-                                                      0
+                                                                               0
+              TRX-006  U BL-USR   55  0    - MBCCH+CBCH    P X2 
+              TRX-007  U BL-USR   38  0    -                 X2 
+              TRX-008  U BL-USR   34  0    -                 X2 
+              TRX-009  U BL-USR   32  0    -                 X2 
+ 31141 37272 BTS-0867  U BL-USR                                            0   0
+ S4331DE17272S7S BB/-                                                      0
+                                                                               0
+              TRX-013  U BL-USR  693  0    -                 X3 
+ 31141 37273 BTS-0868  U BL-USR                                            0   0
+ S4331DE17273S8S BB/-                                                      0
+                                                                               0
+              TRX-018  U BL-USR  763  0    -                 X2 
+
+BCF-0881  FLEXI MULTI  L BL-USR                              X3  P0881 BL
+ 31141 37274 BTS-0881  U BL-USR                                            0   0
+ S4187DE17274S1S BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR   51  0    - MBCCH+CBCH    P X3 
+              TRX-002  U BL-USR   26  0    -                 X3 
+              TRX-005  U BL-USR   37  0    -                 X3 
+ 31141 37275 BTS-0882  U BL-USR                                            0   0
+ S4187DE17275S2S BB/-                                                      0
+                                                                               0
+              TRX-006  U BL-USR   57  0    - MBCCH+CBCH    P X2 
+              TRX-007  U BL-USR   34  0    -                 X2 
+              TRX-008  U BL-USR   38  0    -                 X2 
+              TRX-009  U BL-USR   28  0    -                 X2 
+ 31141 37274 BTS-0885  U BL-USR                                            0   0
+ S4187DE17274S5S BB/-                                                      0
+                                                                               0
+              TRX-013  U BL-USR  765  0    -                 X3 
+ 31141 37275 BTS-0886  U BL-USR                                            0   0
+ S4187DE17275S6S BB/-                                                      0
+                                                                               0
+              TRX-018  U BL-USR  693  0    -                 X2 
+
+BCF-0891  FLEXI MULTI  L BL-USR                              X3  P0891 BL
+ 31141 37276 BTS-0883  L BL-USR                                            0   0
+ S4187DE17276S3S BB/-                                                      0
+                                                                               0
+              TRX-001  L BL-USR   54  0    - MBCCH+CBCH    P X3 
+              TRX-002  L BL-USR   31  0    -                 X3 
+              TRX-003  L BL-USR   33  0    -                 X3 
+              TRX-004  L BL-USR   36  0    -                 X2 
+ 31141 37276 BTS-0887  L BL-USR                                            0   0
+ S4187DE17276S7S BB/-                                                      0
+                                                                               0
+              TRX-006  L BL-USR  756  0    -                 X2 
+
+BCF-1161  FLEXI MR10   U WO     SBTS-25                      X3  P1161 WO
+ 31141 21589 BTS-1161  U WO                                                0   0
+ SRBTS2521589S1O BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-TRX    2  0    - MBCCH         P X3 
+              TRX-002  U BL-TRX   14  0    -               P X3 
+              TRX-003  U BL-TRX   16  0    -               P X3 
+              TRX-004  U BL-TRX   30  0    -                 X3 
+              TRX-009  U BL-TRX   32  0    -                 X3 
+              TRX-010  L BL-USR    5  0    -                 X3 
+              TRX-011  L BL-USR   40  0    -                 X3 
+ 31141 04476 BTS-1165  L BL-USR                                            0   0
+ SMRBTS254476S5O BB/-                                                      0
+                                                                               0
+              TRX-005  U BL-USR  698  0    - MBCCH+CBCH    P X3 
+              TRX-006  L BL-USR  700  0    -                 X3 
+              TRX-007  L BL-USR  753  0    -                 X3 
+              TRX-008  L BL-USR  755  0    -                 X3 
+
+BCF-1171  FLEXI MR10   L BL-USR SBTS-35                      X3  P1171 BL
+ 31141 21590 BTS-1171  L BL-USR                                            0   0
+ SRBTS3521590S1O BB/-                                                      0
+                                                                               0
+              TRX-001  U BL-USR    2  0    - MBCCH+CBCH      X3 
+              TRX-002  U BL-USR   22  0    -                 X3 
+              TRX-003  U BL-USR    4  0    -                 X3 
+              TRX-004  U BL-USR   21  0    -                 X3 
+              TRX-009  U BL-USR    5  0    -               P X3 
+ 31141 04477 BTS-1175  U BL-USR                                            0   0
+ SMRBTS354477S5O BB/-                                                      0
+                                                                               0
+              TRX-005  U BL-USR  580  0    - MBCCH+CBCH    P X3 
+              TRX-006  U BL-USR  670  0    -                 X3 
+              TRX-007  U BL-USR  625  0    -                 X3 
+              TRX-008  L BL-USR  764  0    -                 X3 
+
+
+COMMAND EXECUTED
+
+
+BASE STATION CONTROLLER HANDLING COMMAND <EE_>
+<  Z;
+
+MAIN LEVEL COMMAND <___>
+<  Z;
+
+
+END OF DIALOGUE SESSION
+
+Received disconnect from 10.199.139.4 port 22:2: Connection 8 has been closed by SSH server.
+Disconnected from 10.199.139.4 port 22

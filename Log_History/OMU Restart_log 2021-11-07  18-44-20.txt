@@ -1,0 +1,44 @@
+spawn ssh SYSTEM@10.199.139.4
+SYSTEM@10.199.139.4's password: 
+
+mcBSC     mcTEST                    2021-10-25  15:14:24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       WELCOME TO THE DIALOGUE
+
+
+
+
+
+MAIN LEVEL COMMAND <___>
+<  ZUSU:OMU:;
+
+
+LOADING PROGRAM VERSION 27.64-0
+
+EXECUTION STARTED
+
+
+RESTART REQUESTED IN UNIT OMU       
+
+
+CONFIRM COMMAND EXECUTION: Y/N ?  Y
+
+
+RESTART ORDERED
+UNIT = OMU       
+Received disconnect from 10.199.139.4 port 22:2: Connection 8 has been closed by SSH server.
+Disconnected from 10.199.139.4 port 22
